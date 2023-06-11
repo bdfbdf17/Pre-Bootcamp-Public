@@ -1,38 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  /* Other styles for the body */
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('./bg.jpg'); /* Update the path to the image */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .App {
-  text-align: center;
+  overflow: hidden;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.moving-border {
+  position: fixed;
+  background: #fffffa;
+  animation: moveBorder 2s linear infinite;
+  margin: 15px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+.top {
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+}
+
+.right {
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 2px;
+}
+
+.bottom {
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 2px;
+}
+
+.left {
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 2px;
+}
+
+@keyframes moveBorder {
+  0% {
+    transform: translate(-100%, -100%);
+  }
+  100% {
+    transform: translate(100%, 100%);
   }
 }
+.fancy-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #333;
+  border: none;
+  color: #fffffa;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  cursor: pointer;
+  border-radius: 5px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+  transition: background-color 0.3s ease;
+  margin-left: 250px;
+  margin-top: 50px;
+}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.fancy-button:hover {
+  background-color: #101314;
+}
+
+.button-text {
+  position: relative;
+  z-index: 1;
+}
+
+.container {
   display: flex;
-  flex-direction: column;
+  justify-content: flex-end;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  height: 100vh;
+  padding-right: 10%;
 }
 
-.App-link {
-  color: #61dafb;
+
+
+.card {
+  background-color: #101314;
+  color: #fffffa;
+  padding: 20px;
+  border-radius: 5px;
+  width: 300px;
+  margin-left: 905px;
+  margin-bottom: 15px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+/* Add additional styles as needed */
