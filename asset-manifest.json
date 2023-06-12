@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Pre-Bootcamp-Public/static/css/main.2f9730ed.css",
-    "main.js": "/Pre-Bootcamp-Public/static/js/main.aab1128c.js",
-    "static/js/787.1ed0c42c.chunk.js": "/Pre-Bootcamp-Public/static/js/787.1ed0c42c.chunk.js",
-    "static/media/bg.jpg": "/Pre-Bootcamp-Public/static/media/bg.b1cfc78d40c2c8d0c62e.jpg",
-    "index.html": "/Pre-Bootcamp-Public/index.html",
-    "main.2f9730ed.css.map": "/Pre-Bootcamp-Public/static/css/main.2f9730ed.css.map",
-    "main.aab1128c.js.map": "/Pre-Bootcamp-Public/static/js/main.aab1128c.js.map",
-    "787.1ed0c42c.chunk.js.map": "/Pre-Bootcamp-Public/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/PORTFOLIO/static/css/main.cabb2485.css",
+    "main.js": "/PORTFOLIO/static/js/main.cd6faa9a.js",
+    "static/js/787.1ed0c42c.chunk.js": "/PORTFOLIO/static/js/787.1ed0c42c.chunk.js",
+    "static/media/bg.jpg": "/PORTFOLIO/static/media/bg.b1cfc78d40c2c8d0c62e.jpg",
+    "index.html": "/PORTFOLIO/index.html",
+    "main.cabb2485.css.map": "/PORTFOLIO/static/css/main.cabb2485.css.map",
+    "main.cd6faa9a.js.map": "/PORTFOLIO/static/js/main.cd6faa9a.js.map",
+    "787.1ed0c42c.chunk.js.map": "/PORTFOLIO/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f9730ed.css",
-    "static/js/main.aab1128c.js"
+    "static/css/main.cabb2485.css",
+    "static/js/main.cd6faa9a.js"
   ]
 }
