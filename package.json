@@ -25,6 +25,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "http://{github-bdfbdf17}.github.io/{Pre-Bootcamp-Public}",
   "browserslist": {
     "production": [
       ">0.2%",
