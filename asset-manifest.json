@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Pre-Bootcamp-Public/static/css/main.2f9730ed.css",
-    "main.js": "/Pre-Bootcamp-Public/static/js/main.aab1128c.js",
-    "static/js/787.1ed0c42c.chunk.js": "/Pre-Bootcamp-Public/static/js/787.1ed0c42c.chunk.js",
-    "static/media/bg.jpg": "/Pre-Bootcamp-Public/static/media/bg.b1cfc78d40c2c8d0c62e.jpg",
-    "index.html": "/Pre-Bootcamp-Public/index.html",
-    "main.2f9730ed.css.map": "/Pre-Bootcamp-Public/static/css/main.2f9730ed.css.map",
-    "main.aab1128c.js.map": "/Pre-Bootcamp-Public/static/js/main.aab1128c.js.map",
-    "787.1ed0c42c.chunk.js.map": "/Pre-Bootcamp-Public/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/bdfbdf17.github.io/Pre-Bootcamp-Public/static/css/main.117c5539.css",
+    "main.js": "/bdfbdf17.github.io/Pre-Bootcamp-Public/static/js/main.df387d08.js",
+    "static/js/787.57b6ce53.chunk.js": "/bdfbdf17.github.io/Pre-Bootcamp-Public/static/js/787.57b6ce53.chunk.js",
+    "static/media/background.jpg": "/bdfbdf17.github.io/Pre-Bootcamp-Public/static/media/background.b1cfc78d40c2c8d0c62e.jpg",
+    "index.html": "/bdfbdf17.github.io/Pre-Bootcamp-Public/index.html",
+    "main.117c5539.css.map": "/bdfbdf17.github.io/Pre-Bootcamp-Public/static/css/main.117c5539.css.map",
+    "main.df387d08.js.map": "/bdfbdf17.github.io/Pre-Bootcamp-Public/static/js/main.df387d08.js.map",
+    "787.57b6ce53.chunk.js.map": "/bdfbdf17.github.io/Pre-Bootcamp-Public/static/js/787.57b6ce53.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f9730ed.css",
-    "static/js/main.aab1128c.js"
+    "static/css/main.117c5539.css",
+    "static/js/main.df387d08.js"
   ]
 }
